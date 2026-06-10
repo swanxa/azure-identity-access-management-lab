@@ -57,7 +57,7 @@ This project demonstrates Azure Identity and Access Management (IAM) using Micro
 
 ## Screenshots
 
-
+Available inside Screenshots folder.
 
 ## Skills Demonstrated
 
